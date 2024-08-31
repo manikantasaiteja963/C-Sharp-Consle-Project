@@ -1,0 +1,14 @@
+C:\DOTNET\e-learning\e-learning\bin\Debug\net8.0\e-learning.exe
+C:\DOTNET\e-learning\e-learning\bin\Debug\net8.0\e-learning.deps.json
+C:\DOTNET\e-learning\e-learning\bin\Debug\net8.0\e-learning.runtimeconfig.json
+C:\DOTNET\e-learning\e-learning\bin\Debug\net8.0\e-learning.dll
+C:\DOTNET\e-learning\e-learning\bin\Debug\net8.0\e-learning.pdb
+C:\DOTNET\e-learning\e-learning\obj\Debug\net8.0\e-learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOTNET\e-learning\e-learning\obj\Debug\net8.0\e-learning.AssemblyInfoInputs.cache
+C:\DOTNET\e-learning\e-learning\obj\Debug\net8.0\e-learning.AssemblyInfo.cs
+C:\DOTNET\e-learning\e-learning\obj\Debug\net8.0\e-learning.csproj.CoreCompileInputs.cache
+C:\DOTNET\e-learning\e-learning\obj\Debug\net8.0\e-learning.dll
+C:\DOTNET\e-learning\e-learning\obj\Debug\net8.0\refint\e-learning.dll
+C:\DOTNET\e-learning\e-learning\obj\Debug\net8.0\e-learning.pdb
+C:\DOTNET\e-learning\e-learning\obj\Debug\net8.0\e-learning.genruntimeconfig.cache
+C:\DOTNET\e-learning\e-learning\obj\Debug\net8.0\ref\e-learning.dll
